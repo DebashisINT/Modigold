@@ -1,7 +1,0 @@
-package com.modigoldbreeze.features.nearbyshops.presentation
-
-
-
-interface ShopStatusListner {
-    fun getStatusInfoOnLick(pos:String)
-}
